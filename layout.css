@@ -1,0 +1,53 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1rem;
+    border: 3px solid rgb(57, 10, 44);
+    border-radius: 20px;
+}
+
+h1, h2, h3, ul li, section {
+    margin: 1rem 0;
+}
+
+header, section, footer{
+    padding: 1rem;
+}
+
+header{}
+h1{
+    font-size: 3.2rem;
+}
+
+h2{
+    font-size: 2.8rem;
+}
+
+h3{
+    font-size: 2.4rem;
+}
+
+ul {
+    margin-inline-start: 1rem;
+}
+
+a {
+    color: goldenrod;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:hover{
+    background-color: rgb(170, 18, 127);
+    color: rgb(170, 18, 127));
+    padding: .5rem;
+}
+
+header, .ohjelmointi, .ohjelmistokehittaja, .angular{
+    border: 1px solid black;
+}
+
